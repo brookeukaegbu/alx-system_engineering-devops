@@ -1,2 +1,2 @@
 #!/bin/bash
-xdg-play <StarWars IV>
+sudo apt install star wars iv
