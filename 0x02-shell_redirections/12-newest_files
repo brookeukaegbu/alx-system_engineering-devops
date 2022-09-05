@@ -1,2 +1,2 @@
 #!/bin/bash
-alias lll ="ls -lt | head"
+ls -lt | head -10
