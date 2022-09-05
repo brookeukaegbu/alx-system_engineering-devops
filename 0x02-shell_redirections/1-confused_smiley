@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -n $'\U1F615' # "(Ôo)' Confused , U+1F615
